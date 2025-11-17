@@ -6,7 +6,7 @@ const Qualifications = () => {
     {
       degree: "B.Tech in Information Technology",
       institution: "BTU University, Ajmer",
-      year: "2023 - Present",
+      year: "2022 - Present",
       status: "3rd Year",
       description: "Currently pursuing Bachelor's degree in Information Technology with focus on software development and emerging technologies."
     },
